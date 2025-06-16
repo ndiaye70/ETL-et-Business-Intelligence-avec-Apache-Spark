@@ -125,6 +125,8 @@ AdventureWorks-ETL-BI/
 │   ├── etl-master.zip
 ├── powerbi/
 │   ├── DataIng Project.pbix
-└── README.md 
+└── README.md
+└── modèle
+
 
 ---
